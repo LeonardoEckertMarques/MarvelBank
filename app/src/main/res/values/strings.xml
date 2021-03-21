@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Marvel Bank</string>
+    <string name="app_name_upcase">MARVEL BANK</string>
+    <string name="app_read_top_bottom">MARVEL BANK O MELHOR BANCO DIGITAL</string>
+    <string name="app_read_center_top">MARVEL</string>
+    <string name="app_read_center_bottom">BANK</string>
+    <string name="app_legend">Bem vindo ao seu banco digital</string>
+    <string name="app_login_button">Entrar</string>
+    <string name="app_login_desc"><u>Criar uma nova conta?</u></string>
+    <string name="app_user">Usuário</string>
+    <string name="app_password">Senha</string>
+    <string name="app_name_abstract">Resumo da conta corrente</string>
+    <string name="app_abstract_cc">Nós últimos 7 dias</string>
+    <string name="app_abstract_cash">Saldo R$ 250,00</string>
+    <string name="app_abstract_send">Recebimento Pix</string>
+    <string name="app_abstract_transferent">Recebido R$ 50,00 via Pix</string>
+    <string name="app_abstract_transferent_send">Valor creditado automaticamente</string>
+    <string name="app_abstract_more"><u>Saiba mais</u></string>
+    <string name="app_abstract_welcome">Bem vindo(a) ao Marvel Bank</string>
+</resources>
